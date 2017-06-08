@@ -1,7 +1,7 @@
 body {
   color: white;
   background: grey;
-  background: url(pictures/backgroundimage.jpg);
+  background: url(img/backgroundimage.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
