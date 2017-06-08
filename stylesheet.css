@@ -1,0 +1,86 @@
+body {
+  color: white;
+  background: grey;
+  background: url(pictures/backgroundimage.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+
+div ul {
+  position: relative;
+  padding-top: 20px;
+  float: right;
+  list-style: none;
+  display: inline;
+}
+
+h1 {
+  padding: 0 0 15px 20px;
+  color: white;
+}
+
+li a {
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.header {
+  background-color: rgba(0, 178, 214, 0.2);
+  margin-bottom: 100px;
+  border: 2px solid black;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+.summary {
+  border: solid 2px black;
+  background-color: rgba(0, 178, 214, 0.4);
+}
+
+.contact {
+  border: 2px solid black;
+  background-color: rgba(0, 178, 214, 0.4);
+  padding: 35px 0;
+  margin-bottom: 45px;
+}
+
+.contact h2 {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+a p {
+  margin-bottom: 35px;
+}
+
+.projects {
+  padding-top: 45px;
+  margin-bottom: 45px;
+}
+
+
+/*images */
+
+#me {
+  height: 300px;
+  width: 300px;
+  margin: 20px 0px 20px 0px;
+  border: 2px dashed black;
+}
+
+#img1 {
+  border: 5px solid rgba(0, 178, 214, 0.7);
+  height: 200px;
+  width: 200px;
+}
+
+#emailme {
+  color: white;
+}
